@@ -24,7 +24,7 @@
  <a href="https://www.linkedin.com/in/nicolasxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
-  ![Snake animation](https://github.com/Iag0ow/Iag0ow/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://user-images.githubusercontent.com/90112622/184540935-3e9594e9-bbb8-4db4-99c7-589691802f0b.svg)
  
 </div>
  
