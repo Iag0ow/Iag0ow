@@ -1,8 +1,15 @@
  <div>
   <a href="https://github.com/Iag0ow">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Iag0ow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iag0ow&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iag0ow&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+ 
+ 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
