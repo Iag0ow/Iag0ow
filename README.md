@@ -1,4 +1,7 @@
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&duration=3500&pause=1000&width=350&height=80&lines=Salve+!+%2C+Iago+Mac%C3%AAdo+aqui++;Bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
+</p>
+ 
  <div>
   <a href="https://github.com/Iag0ow">
         <img  height="167em" width="450em"  src="https://github-readme-stats.vercel.app/api?username=Iag0ow&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
